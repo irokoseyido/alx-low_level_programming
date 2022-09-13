@@ -1,4 +1,6 @@
-/**a program to print using puts
+/**
+ * a program to print using puts
+ *
  * return 0
  */
 #include <stdio.h>
