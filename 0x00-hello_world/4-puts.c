@@ -1,7 +1,7 @@
 /**
- * a program to print using puts
+ * main - a program to print using puts
  *
- * return 0
+ * return: 0 if sucesss
  */
 #include <stdio.h>
 int main(void)
