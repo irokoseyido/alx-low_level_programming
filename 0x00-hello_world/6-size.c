@@ -7,16 +7,10 @@
  */
 int main(void)
 {
-int a;
-long int b;
-long long int c;
-char d;
-float f;
-
-print("size of a chat: %d byte(s)\n", (unsigned long)sizeof(d));
-print("size of an int: %d byte(s)\n", (unsigned long)sizeof(a));
-print("size of a long int: %d byte(s)\n", (unsigned long)sizeof(b));
-print("size of a long long int: %d byte(s)\n", (unsigned long)sizeof(d));
-print("size of a float: %d byte(s)\n", (unsigned long)sizeof(f));
+printf("size of a chat: %d byte(s)\n", sizeof(int));
+printf("size of an int: %d byte(s)\n", sizeof(long int));
+printf("size of a long int: %d byte(s)\n", sizeof(long long in)t);
+printf("size of a long long int: %d byte(s)\n", sizeof(char));
+printf("size of a float: %d byte(s)\n", sizeof(float));
 return (0);
 }
