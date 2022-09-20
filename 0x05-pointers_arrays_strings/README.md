@@ -1,0 +1,1 @@
+arrayand pointers task
