@@ -26,7 +26,7 @@ a += size;
 }
 
 a -= size;
-for (index = 0; index < size; index++) 
+for (index = 0; index < size; index++)
 {
 sum2 += a[index];
 a -= size;
