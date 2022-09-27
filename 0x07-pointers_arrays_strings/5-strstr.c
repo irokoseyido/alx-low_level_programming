@@ -1,4 +1,3 @@
-
 /*
  * File: 5-strstr.c
  * Auth: Someone who is kind
@@ -22,7 +21,6 @@ int index;
 
 if (*needle == 0)
 return (haystack);
-
 while (*haystack)
 {
 index = 0;
